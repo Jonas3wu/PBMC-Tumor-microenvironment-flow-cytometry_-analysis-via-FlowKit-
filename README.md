@@ -1,6 +1,6 @@
-Added quntification section to original version
+* Added quntification section to original version
 
-Sample setup:
+* Sample setup:
 PBMC1 = 0.2 million
 
 PBMC1 = 0.2 million
