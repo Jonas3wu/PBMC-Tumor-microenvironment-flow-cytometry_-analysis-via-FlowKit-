@@ -1,4 +1,5 @@
-*Credit & Reference https://github.com/whitews/FlowKit
+*Credit & Reference: [FlowKit by whitews]
+(https://github.com/whitews/FlowKit)
 
 * Added quntification section to original version
 
