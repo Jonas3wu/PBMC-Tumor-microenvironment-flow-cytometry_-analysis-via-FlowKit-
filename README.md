@@ -1,3 +1,5 @@
+*Credit & Reference https://github.com/whitews/FlowKit
+
 * Added quntification section to original version
 
 * Sample setup:
