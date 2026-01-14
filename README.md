@@ -2,9 +2,9 @@
 This workflow is based on the [FlowKit](https://github.com/whitews/FlowKit) toolkit developed by **whitews**. 
 Special thanks to the original authors for their open-source contributions to flow cytometry analysis.
 
-* Added quntification section to original version
+## Added quntification section to original version
 
-* Sample setup:
+## Sample setup:
   
 PBMC1 = 0.2 million
 
