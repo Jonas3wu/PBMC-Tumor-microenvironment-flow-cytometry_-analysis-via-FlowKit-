@@ -1,5 +1,5 @@
 ## Acknowledgements
-This workflow is based on the [FlowKit](https://github.com/whitews/FlowKit) toolkit developed by **whitews**. 
+This workflow is built based on the [FlowKit](https://github.com/whitews/FlowKit) toolkit developed by **whitews**. 
 Special thanks to the original authors for their open-source contributions to flow cytometry analysis.
 
 ## Added quntification section to original version
